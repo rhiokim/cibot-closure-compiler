@@ -1,0 +1,16 @@
+{
+  "author": "rhio.kim <rhio.kim@gmail.com> (http://about.me/rhiokim)",
+  "name": "cibot-closure-compiler",
+  "description": "Google Closuer Compiler for cibot",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rhiokim/cibot-closure-compiler",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rhiokim/cibot-closure-compiler.git"
+  },
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
